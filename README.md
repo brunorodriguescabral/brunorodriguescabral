@@ -1,7 +1,7 @@
 ## Meu nome é Bruno Rodrigues Cabral
 
 - 🎂18 anos
-- 👨‍🎓Segundo semestre de Engenharia Cívil
+- 👨‍🎓Terceiro semestre de Engenharia Cívil
 - 👨‍💻Estudando: JavaScript, HTML e CSS
 - 📃Interesse em: Python e React Native
 
